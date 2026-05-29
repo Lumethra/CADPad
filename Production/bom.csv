@@ -9,7 +9,7 @@ Resistors 5.1k,"R1, R10, R13, R2, R3, R4, R5, R6, R7, R8, R9",0603,11,5.1k,$0.00
 Resistors 100,R11,0603,1,100,$0.0016,C22775,https://jlcpcb.com/partdetail/C22775
 Resistors 1k,"R12, R14, R19",0603,3,1k,$0.0016,C21190,https://jlcpcb.com/partdetail/C21190
 Kailh Hotswap Sockets,"S1, S10, S11, S12, S13, S14, S15, S16, S17, S18, S19, S2, S20, S21, S22, S23, S24, S25, S26, S27, S3, S4, S5, S6, S7, S8, S9",SW_Hotswap_Kailh_MX,27,~,$0.1183,C2803348,https://jlcpcb.com/partdetail/C2803348
-Nice Nano V2,U1,Nice_Nano_V2,1,Nice_Nano_V2,€24.63,,https://42keebs.eu/shop/parts/controllers/nice-nano-v2-wireless-controller/
+Nice Nano V2,U1,Nice_Nano_V2,1,Nice_Nano_V2,€24.63,~,https://42keebs.eu/shop/parts/controllers/nice-nano-v2-wireless-controller/
 SL2.1S,U2,SSOP-16_L4.6-W2.6-P0.53-LS4.0-BL,1,SL2.1S,$0.2258,C2684433,https://jlcpcb.com/partdetail/C2684433
 DW01A,U3,SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL,1,DW01A_C351410,$0.0426,C351410,https://jlcpcb.com/partdetail/C351410
 MCP73831T-2ACI/OT,U4,SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BL,1,MCP73831T-2ACI/OT,$0.7585,C424093,https://jlcpcb.com/partdetail/C424093
