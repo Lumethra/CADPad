@@ -137,9 +137,28 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C2803348"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "91195797-0916-4b50-bb22-aa1bdea5278c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/cc99c7fa-6bbf-4393-a5e7-a1b309bafb92")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3555,9 +3574,28 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C2803348"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0cbce07e-c81d-42fc-8475-17677673fc8b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/5b4412e3-55d5-41aa-a915-38e37cf454aa")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4481,9 +4519,28 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C2803348"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ebdfdecb-6bad-4db4-8eb8-3c067abd2457")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/dacdd19f-6bb5-466b-a643-ff712577d12b")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5121,9 +5178,28 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C2803348"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "62767139-120e-4059-8da4-122b0e591cb9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/2054c74a-93dd-4b02-8f0a-9b18514859d4")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5761,9 +5837,28 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C2803348"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ffdff8d2-4f3e-40a9-9a9f-b709b14d7193")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/64e4a185-142b-4a08-94dc-5663f16d0383")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6401,9 +6496,28 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C2803348"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1e7fa989-a642-4d7b-b51c-91be2c23e8eb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/639fc887-4567-4d91-9b1a-4cd106f38263")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7041,9 +7155,28 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C2803348"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "eb3210c7-d78f-47fc-a492-0bb0356fb9ff")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/9dc7ebd0-500e-49c7-9ca6-8c9b014b6973")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7686,6 +7819,14 @@
 		(path "/c3890537-5b3f-4f03-ba24-7951f3a65cdf")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3" "4" "5" "6" "7" "8" "9" "10" "11" "12" "25" "26" "27"
+					"24" "23" "22" "21" "20" "19" "18" "17" "16" "15" "14" "13"
+				)
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8800,7 +8941,7 @@
 			(remove_unused_layers no)
 			(net "unconnected-(U1-RST-Pad22)")
 			(pinfunction "RST_22")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(uuid "0bce00a3-7cf8-4d99-96f0-ca1c41e9ab8c")
 		)
 		(pad "23" thru_hole circle
@@ -8921,9 +9062,28 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C2803348"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e53d0f8b-33ee-4325-bd0e-d5e9a505febe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/1f6a1793-35b6-4de0-afb4-742e135e9bf1")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9561,9 +9721,28 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C2803348"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9a5889ec-9009-4c70-aea0-051090ea976f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/a1a4d770-aa2d-44df-95df-c3bad264d712")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10201,9 +10380,28 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C2803348"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2ecee57f-c7ac-4340-ac77-430efa53e259")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/79b19ec9-d339-4024-b0d0-2de136a60dac")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10841,9 +11039,28 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C2803348"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "513f1664-4eff-4ae2-89b4-b1c32bacd53a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/35bbff08-754a-4f02-9271-ec2954942bcf")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11481,9 +11698,28 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C2803348"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f96b5b4f-8867-47ad-b4d8-ff63b5e8422c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/691424c1-0f50-462e-8579-59b10cc2e6ee")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -12121,9 +12357,28 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C2803348"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3e69a063-b43d-4849-b1d9-061bed89e615")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/7ae7aa9c-c7ab-434b-8217-f506ede52db1")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -12800,7 +13055,13 @@
 		(path "/8432d2d3-3226-4709-b226-5f52259807e9")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
-		(attr through_hole)
+		(units
+			(unit
+				(name "A")
+				(pins "7" "D" "A" "C" "E" "B" "6")
+			)
+		)
+		(attr through_hole exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -5.9 -2.42)
@@ -13149,9 +13410,28 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C2803348"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ccc7d6d0-db23-41b2-954a-52cdbece8bbe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/cf72d233-f9ee-4f23-a949-c395f200d31c")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13789,9 +14069,28 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C2803348"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3746aaef-4d4c-466f-bc6b-7587b1ca98e6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/40af7dbb-46b6-4af4-8c8b-410bb00ec05b")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -14429,9 +14728,28 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C2803348"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3a02a346-ce9a-4996-8044-e2432e932bc1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/6519c6b3-84a6-410e-b8a8-eea183687aa3")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -15069,9 +15387,28 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C2803348"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "80b22a81-5aaf-431f-b316-cb7b6be7048d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/b26048d4-48ec-445b-aaa3-7f1110f63640")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -16974,9 +17311,28 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C2803348"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "56adfb67-398f-4dee-96ce-69eedfc17df9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/c8bb1445-7e3c-45be-8ddb-5d5beec14479")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -17614,9 +17970,28 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C2803348"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5103e5be-c6e2-4321-8674-88b6e283daf3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/4d0f51f6-e199-4c8b-bdef-a2593d6d1770")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -18254,9 +18629,28 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C2803348"
+			(at 0 0 330)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "93fa36aa-ae61-48a9-b5f3-d96e4ed5c3a2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/26fab982-b0fa-43c0-9dce-da671b848a43")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -19273,9 +19667,28 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C2803348"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ac6cf1d6-2822-4043-8b28-a83123ad9e3d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/69136838-f84a-4ad9-a7f7-67773b5c9660")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -19913,9 +20326,28 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C2803348"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f9ed4116-d011-41cd-b9e0-fa9ecf46969f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/d450b3d3-f5e1-4f79-8e95-c7e5e88a2bb4")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -20553,9 +20985,28 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C2803348"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ec3a88e9-790f-48b9-92f5-a1f04eb86de8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/089f4e8c-6edd-4046-9197-ebebc131c304")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -21193,9 +21644,28 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C2803348"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d4a5f735-cce5-4fed-8fcf-94c14833755f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/4b711280-c1aa-48ee-8dae-b68a75f4ae9c")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -21872,7 +22342,13 @@
 		(path "/c84f9121-471d-42a0-8687-249b55fedbd7")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
-		(attr through_hole)
+		(units
+			(unit
+				(name "A")
+				(pins "7" "D" "A" "C" "E" "B" "6")
+			)
+		)
+		(attr through_hole exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -5.9 -2.42)
@@ -22221,9 +22697,28 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C2803348"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "875b66a5-4b95-4fab-9398-09745b6b5902")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/45584c88-591c-4078-9a69-76213cd3d8d3")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -22861,9 +23356,28 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C2803348"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b5971aaa-d12f-4ac5-a4cd-81a2e75b64a2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/dcf18b68-dd7e-48b2-bbd6-792dcc91a64e")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -23501,9 +24015,28 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C2803348"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0a997560-ab03-49f9-9231-56fdf08784f5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/c9f28936-179c-4529-9ec3-efc042a9b2ee")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -24149,10 +24682,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C81598"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "18238592-23b2-4f49-afdb-f60583913c7d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/c30559af-81ca-4da8-bff9-945d1b085139")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -24438,10 +24991,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C81598"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f124cf9d-16e6-41ca-aec1-217fb59129fb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/0168c9cb-f259-4337-acac-ed117a094b5c")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -24765,6 +25338,12 @@
 		(path "/7c06c4d5-85fa-4e83-a78d-52e4723aaa8a")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3" "4" "5" "6" "7" "8" "9" "10" "11" "12" "14" "13")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -25150,10 +25729,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C23186"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "12f7501d-5741-4c31-a7df-b188357a5460")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/1eadaaee-0dd9-4705-a94b-6034b77f0092")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -25308,10 +25907,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C23186"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "39256bae-4ec6-4f1b-abea-719e95680148")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/3af79cb4-a7e0-430f-9e43-8cbf318c0829")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -25457,10 +26076,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C81598"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f81fd533-b2ea-483c-9e59-3e31d1a2d2d1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/eb2dcd39-9517-4335-9ee7-d2e2c6911353")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -25746,10 +26385,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C81598"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2963ba6d-13b3-4845-87a4-e04082260bbd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/1dd7b5d9-107d-4397-9d5b-8c03968cc90f")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -26035,10 +26694,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C81598"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3791ad1c-e591-450d-ad31-af80931dc921")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/28f8be71-97fa-4b76-927c-49ab661e6275")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -26324,10 +27003,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C81598"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3291b1f0-1075-45a6-99c2-0f4c4e9ed196")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/c0b57754-c64f-4ebf-84b4-1002b6559c85")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -26651,6 +27350,12 @@
 		(path "/5c0d6256-17e1-4763-8415-bbc353b1dd91")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3" "4" "5" "6" "7" "8" "9" "10" "11" "12" "14" "13")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -27054,6 +27759,12 @@
 		(path "/8a6a31d3-0e55-4e24-8b3f-43ca7285c450")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -27199,10 +27910,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C81598"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "822be420-53c8-4aa9-98f9-10674cd04914")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/71ad6a01-c8f8-4c41-abb3-08344c6c97a7")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -27488,10 +28219,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C81598"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1ad7836c-ff6a-423d-86e9-1e3a3b80e51f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/f5a39656-9fcd-4679-b054-8aa727032eff")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -27786,10 +28537,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C15849"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "83bfacda-c3dc-472d-a849-939cfcd3f875")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/7ac69122-005f-4f20-a462-d95a920d70b3")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -27935,10 +28706,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C81598"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9305c350-87ae-4e70-84b2-e5a4b444686d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/0fb3e490-3b8a-425d-aeb1-fd65070966af")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -28224,10 +29015,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C81598"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5f5f4859-69d9-46a5-8638-9cfbbfe423f6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/523d8d3b-2990-4045-8a23-6a5b28f47ae3")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -28872,6 +29683,12 @@
 		(path "/742c31bb-784b-4c55-b6e7-1aa41dac147f")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3" "6" "5" "4")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -29104,10 +29921,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C81598"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2ef8ac2c-1bbb-4db2-8b7e-b1aee11534bd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/97b81cdf-e3a4-4ad3-bba8-fdd9496d7993")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -29393,10 +30230,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C81598"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8915e08a-b080-44ca-931b-1d14865c06d2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/d290eea1-c6b4-44af-bb21-63bb97395890")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -29682,10 +30539,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C81598"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0adc0577-02d7-43ea-a847-e2a829535169")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/7d9d671b-08e2-4277-9ec8-ab18ce8a958c")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -29980,10 +30857,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C14663"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "40d09368-5c38-4957-a2b1-496a173882e9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/1d9d177d-9995-46be-af3c-9d254af61052")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -30138,10 +31035,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C14663"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7c1a2326-52ea-4374-affc-ce5bd80b58c7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/86adc315-88de-4135-8be7-857b84e1947b")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -30287,10 +31204,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C81598"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b577b45d-a800-475c-8c63-27464fff00c8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/042fd3b7-9408-4c8c-8403-f1d70df8b65f")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -30585,10 +31522,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C15849"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6e7d710f-553b-45f1-adf6-2db78d09ce21")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/c97a6bd2-f216-46a2-9960-ead013aa96ee")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -30743,10 +31700,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C15849"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c53f812c-b2d0-4f0d-b9ca-e3a70d7d2370")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/f5e80e71-01be-4ed9-bc8d-6f6fc37508e0")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -30930,6 +31907,12 @@
 		(path "/f9545a77-dc27-488d-8f0d-aef3fd510773")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3" "5" "4")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -31163,10 +32146,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C81598"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f0113f9b-4c4e-4c10-9ca4-ae2b9ecd5102")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/74870d7f-eba5-40a6-83ed-0e01152abdc5")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -31461,10 +32464,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C15849"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fe130a28-92d2-4eae-931d-8698e2ddc0b4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/4d17d9f1-d756-4d41-a03d-f6b80429d014")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -31619,10 +32642,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C23186"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3b5f74b7-ecd8-4434-b582-90d5b357b779")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/17b2560a-5d33-4b44-a4e6-d432fd8fc72e")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -31768,10 +32811,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C81598"
+			(at 0 0 60)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4a784b67-f301-44ee-b951-24cd5281413c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/cc77a2fa-6607-4b06-9ea1-3a6b075d73bc")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -32095,6 +33158,12 @@
 		(path "/20da98f1-7597-47b6-b460-81028ba25b9e")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3" "6" "5" "4")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -32327,10 +33396,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C81598"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f40c62c3-edf6-4e19-ba92-19c8091b4f8c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/2dc3670b-b035-4097-a1dc-55703476b70d")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -32616,10 +33705,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C81598"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "013d029b-7c82-4ce2-adf0-ee1d0c4b175c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/767c8935-ea93-4134-865f-c6b1107799f0")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -32932,6 +34041,12 @@
 		(path "/f94f0b39-5b01-459f-a254-f7ce1a04105c")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -33081,8 +34196,8 @@
 				(xy -51.30525 11.304341) (xy -51.506493 10.82762) (xy -52.231686 10.023004) (xy -53.224456 9.119199)
 				(xy -54.228432 8.344906) (xy -54.987239 7.928831) (xy -55.112992 7.907548) (xy -55.666958 8.189296)
 				(xy -56.613687 8.888061) (xy -56.877966 9.105661) (xy -58.619911 10.011579) (xy -60.759579 10.325388)
-				(xy -62.919701 10.018972) (xy -63.883234 9.627692) (xy -64.888947 8.956004) (xy -66.025133 7.995379)
-				(xy -67.04972 6.979949) (xy -67.720645 6.143844) (xy -67.850249 5.790713) (xy -68.011457 5.209681)
+				(xy -62.919701 10.018972) (xy -63.883234 9.627692) (xy -64.888947 8.956004) (xy -66.025134 7.995379)
+				(xy -67.04972 6.97995) (xy -67.720645 6.143844) (xy -67.850249 5.790713) (xy -68.011457 5.209681)
 				(xy -68.480144 4.175635) (xy -68.547997 4.042798) (xy -69.164397 2.325487) (xy -69.567524 0.192986)
 				(xy -69.696075 -1.901607) (xy -69.543445 -3.314652) (xy -68.975178 -4.320364) (xy -68.338441 -4.552829)
 				(xy -67.445146 -4.925669) (xy -66.6657 -5.740969) (xy -65.124575 -7.294485) (xy -63.143958 -8.120035)
@@ -33091,9 +34206,9 @@
 				(xy -53.929122 -7.068867) (xy -53.08768 -8.06698) (xy -52.851313 -8.654221) (xy -53.144152 -9.09427)
 				(xy -53.308607 -9.22547) (xy -54.41847 -9.708585) (xy -55.250636 -9.824528) (xy -56.441177 -10.100281)
 				(xy -57.725308 -10.766417) (xy -57.763223 -10.793105) (xy -60.225842 -12.10524) (xy -63.048521 -12.906185)
-				(xy -65.941621 -13.162546) (xy -68.615501 -12.840924) (xy -70.2436 -12.232063) (xy -71.51173 -11.458961)
+				(xy -65.941621 -13.162547) (xy -68.615501 -12.840924) (xy -70.2436 -12.232063) (xy -71.51173 -11.458961)
 				(xy -72.461141 -10.703503) (xy -72.578697 -10.575886) (xy -72.903534 -10.029322) (xy -72.484745 -9.839679)
-				(xy -71.967764 -9.824528) (xy -71.143784 -9.766451) (xy -71.006872 -9.411737) (xy -71.439404 -8.506603)
+				(xy -71.967764 -9.824528) (xy -71.143784 -9.76645) (xy -71.006872 -9.411737) (xy -71.439404 -8.506603)
 				(xy -72.130591 -7.056368) (xy -72.603365 -5.870755) (xy -73.312395 -4.791758) (xy -74.089136 -4.552829)
 				(xy -74.661712 -4.477336) (xy -74.93908 -4.099749) (xy -74.987514 -3.193421) (xy -74.894897 -1.797169)
 				(xy -74.477651 1.063083) (xy -73.73465 3.875418) (xy -72.744023 6.482374) (xy -71.583901 8.726488)
@@ -33126,14 +34241,14 @@
 				(xy -2.167043 -13.093677) (xy -3.08542 -12.953365) (xy -3.267225 -12.841565) (xy -3.36139 -12.127009)
 				(xy -3.254772 -11.139722) (xy -2.863655 -10.155396) (xy -2.000622 -9.834608) (xy -1.674826 -9.824528)
 				(xy -0.771874 -9.69692) (xy -0.296515 -9.131511) (xy -0.027784 -8.027358) (xy 0.248808 -6.60904)
-				(xy 0.508188 -5.494183) (xy 0.537092 -5.391509) (xy 0.477225 -4.720484) (xy -0.216459 -4.552829)
+				(xy 0.508188 -5.494183) (xy 0.537092 -5.391509) (xy 0.477225 -4.720483) (xy -0.216459 -4.552829)
 				(xy -0.943279 -4.358262) (xy -1.003665 -3.607503) (xy -0.975938 -3.474528) (xy -0.749725 -2.459243)
 				(xy -0.395081 -0.866729) (xy -0.019908 0.818436) (xy 0.408524 3.078124) (xy 0.482902 3.59434) (xy 5.617447 3.59434)
 				(xy 10.292205 3.59434) (xy 12.574208 3.624654) (xy 14.125269 3.739852) (xy 15.171709 3.97632) (xy 15.939847 4.370445)
-				(xy 16.16789 4.538988) (xy 16.920446 5.260918) (xy 17.169091 6.05698) (xy 17.030041 7.334439) (xy 17.005069 7.472811)
+				(xy 16.16789 4.538988) (xy 16.920446 5.260918) (xy 17.169091 6.05698) (xy 17.030041 7.334439) (xy 17.00507 7.472811)
 				(xy 16.631308 8.813318) (xy 16.141592 9.735171) (xy 15.988585 9.875542) (xy 15.209586 10.078796)
 				(xy 13.796551 10.212991) (xy 12.008145 10.278984) (xy 10.103035 10.277634) (xy 8.339886 10.209799)
-				(xy 6.977365 10.076337) (xy 6.274137 9.878107) (xy 6.241731 9.843204) (xy 6.063236 9.1466) (xy 5.891411 7.811291)
+				(xy 6.977365 10.076337) (xy 6.274137 9.878107) (xy 6.241732 9.843204) (xy 6.063236 9.1466) (xy 5.891411 7.811291)
 				(xy 5.787264 6.488487) (xy 5.617447 3.59434) (xy 0.482902 3.59434) (xy 0.761463 5.527665) (xy 0.9145 7.048624)
 				(xy 1.132357 9.278344) (xy 1.434206 10.70162) (xy 1.876626 11.470106) (xy 2.516201 11.735457) (xy 2.665406 11.74151)
 				(xy 3.380987 12.081231) (xy 3.821217 13.19892) (xy 3.865581 13.418869) (xy 4.180255 15.096227) (xy 11.963595 15.096227)
@@ -33194,9 +34309,9 @@
 				(xy -43.153734 -6.469811) (xy -44.057051 -8.147169) (xy -44.879443 -9.326536) (xy -45.807404 -9.789741)
 				(xy -46.2753 -9.824528) (xy -47.358291 -10.081675) (xy -48.25728 -10.992821) (xy -48.579896 -11.501886)
 				(xy -49.254059 -12.506509) (xy -49.961292 -13.001754) (xy -51.062843 -13.165729) (xy -51.981951 -13.179244)
-				(xy -53.370199 -13.090245) (xy -54.237873 -12.860923) (xy -54.39434 -12.683138) (xy -53.995533 -11.494547)
+				(xy -53.370199 -13.090245) (xy -54.237872 -12.860923) (xy -54.39434 -12.683138) (xy -53.995533 -11.494547)
 				(xy -53.034208 -10.431046) (xy -51.863012 -9.851343) (xy -51.583562 -9.82404) (xy -50.72066 -9.64452)
-				(xy -49.959899 -8.976713) (xy -49.086853 -7.625613) (xy -49.002832 -7.476994) (xy -48.183066 -5.988328)
+				(xy -49.959899 -8.976713) (xy -49.086853 -7.625613) (xy -49.002832 -7.476994) (xy -48.183067 -5.988328)
 				(xy -47.799185 -5.13216) (xy -47.811134 -4.709012) (xy -48.178858 -4.519406) (xy -48.39865 -4.468158)
 				(xy -48.588771 -4.175703) (xy -48.370065 -3.39967) (xy -47.700806 -2.044163) (xy -47.216918 -1.198112)
 				(xy -41.88714 -1.198112) (xy -38.750486 -1.198112) (xy -35.613832 -1.198112) (xy -35.947129 1.225246)
@@ -33375,6 +34490,12 @@
 		(path "/08826b52-26b4-4c76-9b47-1e78455a53e1")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -33520,10 +34641,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C81598"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6cdf008f-e46d-4bdc-b773-c9d08cfb6aec")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/87491f0f-38c7-4cc8-b158-c8c940b39a68")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -33809,10 +34950,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C81598"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "164d1b9c-3bb5-4061-98c2-97b7da9d4816")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/d1b0adb0-1459-4b57-a33d-eb0b37b5ae7c")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -34136,6 +35297,14 @@
 		(path "/cba2bf64-085c-4bfd-b4f9-eca1302cf249")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3" "4" "5" "6" "7" "8" "16" "15" "14" "13" "12" "11" "10"
+					"9"
+				)
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -34519,10 +35688,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C81598"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7863b1b8-c4c4-481b-b37c-dc9331fe4e4f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/ddbb05df-1919-42eb-8379-186c9d7c991f")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -34817,10 +36006,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C15849"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b0b42894-b855-42f6-8c92-576f7dcdf2cb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/52492e16-ae49-4d87-8ee7-737af0a6fb00")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -34975,10 +36184,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C23186"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "63dabcd4-7b64-4139-aa16-888f35755ecb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/26d702c7-fe24-4283-b0c4-86e141db1978")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -35124,10 +36353,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C81598"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b45eb598-d742-4084-b46a-1e817e4e79b6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/d59b3ecc-a5ba-44b5-ae1a-550f279d6587")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -35413,10 +36662,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C81598"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "16f2ee2c-b1b4-4f77-bb5f-ecac6c795d07")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/847a48eb-5672-4914-81ff-43793c11a4f7")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -35702,10 +36971,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C81598"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b4551aeb-01da-4234-979a-0fcd9061ee46")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/180bdb80-4466-4a3c-85d6-ad2e9c33b50e")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -35991,10 +37280,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C81598"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f48233ee-9953-4f83-a2fd-81a5ed971532")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/e435c7b0-eb5d-4442-8ff9-b886b8573cdd")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -36307,6 +37616,12 @@
 		(path "/3f7bdd25-3b13-41cb-9ca2-749a6e60bb32")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -36461,10 +37776,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C23186"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e3588841-08a2-4cc3-a80f-21e9ce4ad697")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/fcb16f69-dc6b-444a-bd17-6e1c39c824d3")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -36619,10 +37954,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C14663"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3f140c15-eb30-4d34-b1ec-aeae4a56c4d8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/7f69f60c-4722-4b6b-a412-b01cef717130")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -36777,10 +38132,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C23186"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4f9606d1-02a5-457e-a98d-d04fbba20a18")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/ace5509e-0df5-4ef6-8be1-dd3d25fe5dc9")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -36926,10 +38301,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C81598"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "43f6eb0e-39ec-4c83-a772-dfca04d3bd22")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/b2e09f11-9f4b-4651-aaf0-88012fbfc2e0")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -37224,10 +38619,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C14663"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "954826c0-c63f-4bd4-a5b6-724d356e5d73")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/779a4550-a931-48f3-88b5-11b7f77d2dfb")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -37411,6 +38826,12 @@
 		(path "/fb0e3308-e28b-4cdd-b008-77170df296d5")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "4" "3")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -37743,10 +39164,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C23186"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "817bee0d-27a8-4b2f-a6ce-ef6f08183075")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/bc5bab07-dd4b-4498-b66f-44fd5db0e102")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -37892,10 +39333,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C81598"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "66712801-726a-422c-8656-abdbd038290b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/0a55c7fe-dfe2-4831-a059-d04c8940de74")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -38190,10 +39651,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C23186"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f06c7e15-133e-438f-8552-75438f5ff673")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/0a898f99-a1ce-4740-82b9-5cce91b01d03")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -38366,6 +39847,12 @@
 		(path "/1877139c-8ead-45d8-8b17-43b70885304d")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -38520,10 +40007,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C23186"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b7ddfffb-ce29-46dd-91fd-816f64b59158")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a0626434-75e1-4cd0-99c0-5b650a378b32")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -38707,6 +40214,12 @@
 		(path "/adbfafdc-ca5a-4b28-bbac-f94ed7065a06")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3" "4" "5" "6" "7" "8" "9" "10" "11" "12" "14" "13")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -39121,6 +40634,12 @@
 		(path "/2c97e11c-4ae8-4ba0-b163-86f23fa03d3a")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3" "4" "5" "6" "7" "8" "9" "10" "11" "12" "14" "13")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -39497,10 +41016,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C81598"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "af6c7677-e3dd-4c0e-bbbe-d8ade4b783c4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/ccac3707-06f2-4b38-a741-1e451d62d2ae")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -39824,6 +41363,12 @@
 		(path "/0dc0a765-4a7c-4873-81c3-ddba9f36a0b6")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3" "4" "5" "6" "7" "8" "9" "10" "11" "12" "14" "13")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -40209,10 +41754,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C15849"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3daa88e6-13f8-4e33-96db-ae793ac16e33")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/b9f62caf-e37e-49a6-a308-f88a4bf7e2ca")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -40367,10 +41932,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C22775"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3427c04b-6a62-43ea-820d-835ddb4d923e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/7bbff278-9410-4a2b-989c-a7e9e1dfa9e6")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -40525,10 +42110,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C15849"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5c0f6025-a9d3-459e-bb1d-611944422241")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/2313264b-d653-440a-b34b-70356773bbb8")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -40683,10 +42288,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C23186"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "bc7b71db-1cd2-479a-ab71-b1826ef55db5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/23d1275e-10c7-44ed-97a3-8bc8732428d6")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -40841,10 +42466,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C15849"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "41bc4302-5b07-4047-a88a-38e194d906fd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/0691ed9b-c90c-4a89-9c60-320164e60f7e")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -40990,10 +42635,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C81598"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4c6b0560-e85e-4897-bd86-c31f73fce21c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/24c0acbd-e58f-4781-86eb-73f0446a1398")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -41288,10 +42953,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C21190"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ff63ed8e-9d6b-4406-910b-e01a2b4e84a2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/35d9cc25-7436-4930-95fb-aa3c6a89673d")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -41437,10 +43122,30 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C81598"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "877166be-f34c-4564-a52d-468bc51df0fb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/99748433-d670-47d2-998f-e49ffce6bf89")
 		(sheetname "/")
 		(sheetfile "CADPad.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
