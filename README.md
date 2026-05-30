@@ -44,6 +44,10 @@ This CADPads development process was fairly easiy because of the knowledge from 
 | <img alt="PCB Front" src="https://github.com/Lumethra/CADPad/blob/main/Images/PCB-Front-No-Components.png" /> |
 | <img alt="PCB Front" src="https://github.com/Lumethra/CADPad/blob/main/Images/PCB-Back-No-Components.png" /> |
 
+| Case |
+| --- |
+| <img alt="PCB Front" src="https://github.com/Lumethra/CADPad/blob/main/Images/Case.png" /> |
+
 ---
 
 ## PCB + Schematics
